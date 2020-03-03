@@ -15,7 +15,7 @@ background-size: cover;
 
 ul.top{
   position: sticky;
-top:20px;
+top:0px;
 width: auto;
 background-color: green;
 padding: 20px;
