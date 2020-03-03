@@ -3,12 +3,13 @@ html, body{
   min-height: 100%;
   margin: 0;
   padding: 0;
+  background-color: white;
 }
 
 div.top{
 background-image: url("/Users/kameronbanks/Desktop/documents/business website/images/IMG_0224.jpeg");
 width: 100%;
-height: 10vh;
+height: 8vh;
 background-size: cover;
 
 }
@@ -22,7 +23,7 @@ padding: 20px;
 }
 
 li{
-display:inline-block;
+display:inline;
 color: black;
 text-align: center;
 text-decoration: none;
@@ -31,7 +32,7 @@ background-color: yellow;
 }
 
 div.bottom{
-background-image: url('/Users/kameronbanks/Desktop/documents/business website/images/Photo on 2-27-20 at 5.54 PM.jpg');
+/*background-image: url('/Users/kameronbanks/Desktop/documents/business website/images/Photo on 2-27-20 at 5.54 PM.jpg');*/
 width: 100%;
 height: 100vh;
 background-size: cover;
